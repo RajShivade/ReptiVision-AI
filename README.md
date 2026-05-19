@@ -65,6 +65,13 @@ using Deep Learning Image Classification techniques.
  - Generate predictions on unseen images
  - Visualize model performance
 
+## 📂 Dataset
+
+The dataset used for this project is hosted on Google Drive due to GitHub file size limitations.
+
+🔗 Dataset Link:
+https://drive.google.com/file/d/1tVV5r3lnP5B1uUFtIwUgReaEbrKf1Fj8/view?usp=sharing
+
 ## 📂 Dataset Information
 
 The dataset contains labeled images of:
