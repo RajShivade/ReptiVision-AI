@@ -1,4 +1,4 @@
-# ReptiVision-AI --> Alligator vs Crocodile Image Classification.
+## ReptiVision-AI --> Alligator vs Crocodile Image Classification.
 ## 📌 Project Overview
 
 This project focuses on building an AI/ML-based Image Classification system capable of distinguishing between Alligators and Crocodiles using Deep Learning techniques.
@@ -220,6 +220,8 @@ Data Science Student
 AI/ML Enthusiast
 
 Aspiring Data Analyst
+
+**LinkedIn:** www.linkedin.com/in/raj-shivade25
 
 ## 📜 License
 
